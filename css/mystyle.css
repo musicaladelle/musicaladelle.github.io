@@ -1,0 +1,78 @@
+body  {
+    background-color: rgb(203, 229, 250);
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1 {
+    margin-top: 2%;
+    text-align: center;
+    font-size: 35px;
+    color: green;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+img {
+    max-width: 800px;
+    max-height: 900px;
+}
+.navbar {
+    float: left;
+    border: 2px solid #d88ca4;
+    top: 114px;
+    left: 50px;
+    bottom: 64px;
+    width: 200px;
+    text-align: center;
+    font-weight: bold;
+}
+.img-profile {
+    max-width: 25%;
+    max-height: 100%;
+    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    float: right;
+    margin-left: auto;
+    margin-right: 14%;
+  }
+.text {
+    font-size: 20px;
+    padding-left: 300px;
+    padding-top: 5%;
+    float: middle;
+    text-align: justify;
+}
+.red {
+    background-color:rgb(29, 231, 164);
+    font-weight: bold;
+}
+a {
+    color: #5e53a6;
+}
+h2 {
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 25px;
+    padding-left: 100px;
+    padding-top: 25px;
+    color: #534a91;
+}
+.ourstory {
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 100px;
+    float: left;
+}
+.ajadelle {
+    max-width: 800px;
+    max-height: 1000px;
+    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    float: right;
+    margin-right: 5%;
+}
+.art {
+    font-size: 18px;
+    padding-left: 100px;
+}
+.outdoor {
+    font-size: 25;
+    padding-left: 100px;
+    
+}
